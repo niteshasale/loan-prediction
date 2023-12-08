@@ -2,7 +2,7 @@
 
 ### data cleaning and checking the missing vlaues
 ### now lets the drop all missing values remaining
-### Exploratory Data Analysis
+### Exploratory Data Analysis.
 ### compparism between parameter in getting the Loan
 ### lets the replace the Variable value to numerical form and display the value counts
 ### the data in numerical form avoid disturbances in building the model.
